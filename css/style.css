@@ -48,13 +48,13 @@ margin-left: 100px;
 }
 .iframe-vida iframe{
   width:100%;
-  height: 60vh;
+  height: 70vh;
 }
 img{
   float:left;
  
 }
-.image-border{
+.thumbnail-wrapper .image-border{
   border-bottom: 1px solid gray;
 }
 .image-border p a{
